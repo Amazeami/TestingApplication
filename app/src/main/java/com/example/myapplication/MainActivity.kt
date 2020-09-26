@@ -10,5 +10,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         Log.i("AmitRaj","Testing")
+
+        Log.i("1","Testing")
+        Log.i("2","Testing")
     }
 }

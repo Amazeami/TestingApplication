@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         Log.i("AmitRaj","Testing")
 
         Log.i("1","Testing")
-        Log.i("2","Testing")
+        Log.i("4","Testing")
         Log.i("3","Testing")
     }
 }
